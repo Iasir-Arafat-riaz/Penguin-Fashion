@@ -1,0 +1,60 @@
+body{
+    font-family: 'IBM Plex Sans', sans-serif;
+font-family: 'Merriweather Sans', sans-serif;
+}
+
+.logo img{
+    width: 250px;
+}
+.par{
+    color: purple;
+    font-weight: bold;
+    
+}
+h1{
+    color: rgb(226, 187, 14);
+    font-weight: bold;
+}
+
+.pengu-card{
+    border-radius: 20px;
+    height: 400px;
+}
+.pengu-card img{
+    background-color: rgb(182, 182, 177);
+    border-radius: 15px;
+    height: 350px;
+    
+}
+.pengu-card-footer{
+    border: 0;
+    background-color: white;
+}
+.xyz{
+    background-color: rgb(235, 231, 235);
+    border-radius: 20px;
+    border: 0;
+}
+.thela img{
+    width: 450px;
+    margin: 15px;
+}
+.btn-clr{
+    background-color: rgb(88, 129, 5);
+    color: thistle;
+}
+.first img{
+    width: 80px;
+}
+.second img{
+    width: 80px;
+}
+.third img{
+    width: 80px;
+}
+.last-bg{
+    background-color:rgb(235, 231, 235) ;
+}
+h4{
+    color: rgb(226, 187, 14);
+}
